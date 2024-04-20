@@ -1,4 +1,4 @@
-# Can Tree Based Approaches Surpass Deep Learning in Anomaly Detection? A Benchmarking Study
+# A Benchmarking Study in Anomaly Detection: Deep Learning is not all we need
 
 Detection of anomalous situations for complex mission-critical systems holds paramount importance when their service continuity needs to be ensured. A major challenge in detecting anomalies from the operational data arises due to the imbalanced class distribution problem since the anomalies are supposed to be rare events. This paper evaluates a diverse array of machine learning-based anomaly detection algorithms through a comprehensive benchmark study. 
 
